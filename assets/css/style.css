@@ -6,6 +6,10 @@
   font-family: "roboto", sans-serif;
 }
 
+h5{
+ color: darkslategrey;
+}
+
 footer {
   text-align: center;
   display: flex;

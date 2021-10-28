@@ -1,0 +1,42 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;600;700&display=swap");
+
+* {
+  padding: 0;
+  margin: 0;
+  font-family: "roboto", sans-serif;
+}
+
+h5{
+ color: darkslategrey;
+}
+
+footer {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center; /*it aligns the footer to the middle*/
+}
+
+footer a {
+  text-decoration: none;
+  color: #27334e; /*it changes the color of a string where theres an 'a'  in the footer*/
+  font-weight: 700;
+}
+
+footer a img {
+  margin: 0 15px;
+}
+
+.icons img {
+  width: 35px;
+  border: none;
+  border-radius: 0;
+}
+
+.display-4 {
+  color: aliceblue;
+}
+
+.lead {
+  color: aliceblue;
+}
